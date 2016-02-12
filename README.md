@@ -11,6 +11,9 @@ GIT repository and various commands using a web project
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+I am hoping to learn how to use GIT
 
 ## Deployment
+
+I am deploying to each area of the staging area
