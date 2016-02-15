@@ -19,6 +19,10 @@ I am hoping to learn how to use GIT
 I am deploying to each area of the staging area
 Not sure if this is working
 
+## How to Contribute
+
+Please fork this repository and then issue Pull Request for Review
+
 ## Copyright 
 
 2016 Paul van Schalkwyk
