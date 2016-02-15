@@ -18,3 +18,7 @@ I am hoping to learn how to use GIT
 
 I am deploying to each area of the staging area
 Not sure if this is working
+
+## Copyright 
+
+2016 Paul van Schalkwyk
