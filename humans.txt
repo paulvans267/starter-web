@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Paul van Schalkwyk -- Business Analyst -- paul.vans@conextbi.com
 
 # THANKS
 
