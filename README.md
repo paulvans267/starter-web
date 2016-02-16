@@ -9,7 +9,7 @@ More changes then added on the myfeature branch
 ## Introduction
 The aim of this example is to show different parts of the
 GIT repository and various commands using a web project
-
+Emergency fix after our stash
 
 ## Purpose
 
