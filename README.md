@@ -27,4 +27,4 @@ Please fork this repository and then issue Pull Request for Review
 
 ## Copyright 
 
-2016 Paul van Schalkwyk
+2016 Paul van Schalkwyk.  All rights reserved.
