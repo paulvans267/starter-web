@@ -4,6 +4,7 @@
 This repository is for showing how Git and GitHub work
 This is section 7 of the Udemy Course
 I am now working through the rebasing example
+More changes then added on the myfeature branch
 
 ## Introduction
 The aim of this example is to show different parts of the
